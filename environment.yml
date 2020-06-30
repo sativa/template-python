@@ -11,3 +11,4 @@ dependencies:
   - pandas
   - python=3
   - psutil
+  - dndclib
