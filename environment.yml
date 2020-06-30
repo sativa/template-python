@@ -1,4 +1,4 @@
-name: materials-example
+name: DNDC
 channels:
   - conda-forge
 dependencies:
