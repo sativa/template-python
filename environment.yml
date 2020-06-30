@@ -5,14 +5,13 @@ dependencies:
   - ipympl
   - ipywidgets
   - jupyterlab=2
-  - matplotlib
   - nbresuse
   - numpy
   - pandas
   - python=3
-  - click
   - gdal
   - proj4
+  - pip
   - pip:
     - dndclib
     - fiona
@@ -32,3 +31,4 @@ dependencies:
     - xlrd
     - h5py
     - matplotlib
+    - click
