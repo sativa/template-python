@@ -3,8 +3,12 @@
 Example repository to create an environment with course materials in Python.
 
 ## Try it on Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sativa/template-python.git/master)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/plasmabio/materials-example/master?urlpath=%2Flab/)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/sativa/template-python.git/master
+
 
 ## Structure of the repo
 
